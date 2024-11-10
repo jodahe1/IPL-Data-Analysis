@@ -1,4 +1,7 @@
 Project Title: IPL Data Analysis (2008-2020)
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 Description
 This project analyzes data from the Indian Premier League (IPL) covering the seasons from 2008 to 2020. The analysis leverages two primary datasets:
 
@@ -19,15 +22,16 @@ Analysis of team performance in toss wins and match wins.
 Player Analysis
 
 Virat Kohli: An in-depth analysis of his batting style, runs scored by singles, doubles, etc., and types of dismissals.
-
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 Getting Started
 Prerequisites: Install the necessary libraries to run the notebook.
-
-bash
-Copy code
 pip install pandas numpy matplotlib seaborn
 Running the Notebook: Ensure both datasets (IPL Matches 2008-2020.csv and IPL-Ball-by-Ball 2008-2020.csv) are in the same directory as the notebook. Open and run all cells in the Jupyter Notebook.
-
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 Project Structure
 Data Loading and Exploration: Load and perform basic checks on the datasets.
 Match Analysis: Examine match-level details like venues, team participation, toss wins, and player accolades.
